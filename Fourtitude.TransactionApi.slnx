@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Fourtitude.TransactionApi.Api/Fourtitude.TransactionApi.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Fourtitude.TransactionApi.Tests/Fourtitude.TransactionApi.Tests.csproj" />
+  </Folder>
+</Solution>
